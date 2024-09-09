@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jairo Vega\\Desktop\\ControlDeFlujo\\FibonacciSeries\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00E97945-97E3-4F97-B9A4-386EC4C8179C}|FibonacciSeries\\FibonacciSeries.csproj|c:\\users\\jairo vega\\desktop\\controldeflujo\\fibonacciseries\\fibonacciseries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E97945-97E3-4F97-B9A4-386EC4C8179C}|FibonacciSeries\\FibonacciSeries.csproj|solutionrelative:fibonacciseries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jairo Vega\\Desktop\\ControlDeFlujo\\FibonacciSeries\\FibonacciSeries\\Program.cs",
+              "RelativeDocumentMoniker": "FibonacciSeries\\Program.cs",
+              "ToolTip": "C:\\Users\\Jairo Vega\\Desktop\\ControlDeFlujo\\FibonacciSeries\\FibonacciSeries\\Program.cs",
+              "RelativeToolTip": "FibonacciSeries\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T03:13:19.173Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jairo Vega\\Desktop\\ControlDeFlujo\\NumberSeries\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{128885F0-0FC1-4D68-B416-E5FD416A75CB}|NumberSeries\\NumberSeries.csproj|c:\\users\\jairo vega\\desktop\\controldeflujo\\numberseries\\numberseries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128885F0-0FC1-4D68-B416-E5FD416A75CB}|NumberSeries\\NumberSeries.csproj|solutionrelative:numberseries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jairo Vega\\Desktop\\ControlDeFlujo\\NumberSeries\\NumberSeries\\Program.cs",
+              "RelativeDocumentMoniker": "NumberSeries\\Program.cs",
+              "ToolTip": "C:\\Users\\Jairo Vega\\Desktop\\ControlDeFlujo\\NumberSeries\\NumberSeries\\Program.cs",
+              "RelativeToolTip": "NumberSeries\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T03:29:28.596Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

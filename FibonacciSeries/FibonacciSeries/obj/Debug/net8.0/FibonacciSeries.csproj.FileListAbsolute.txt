@@ -1,0 +1,14 @@
+C:\Users\Jairo Vega\Desktop\ControlDeFlujo\FibonacciSeries\FibonacciSeries\bin\Debug\net8.0\FibonacciSeries.exe
+C:\Users\Jairo Vega\Desktop\ControlDeFlujo\FibonacciSeries\FibonacciSeries\bin\Debug\net8.0\FibonacciSeries.deps.json
+C:\Users\Jairo Vega\Desktop\ControlDeFlujo\FibonacciSeries\FibonacciSeries\bin\Debug\net8.0\FibonacciSeries.runtimeconfig.json
+C:\Users\Jairo Vega\Desktop\ControlDeFlujo\FibonacciSeries\FibonacciSeries\bin\Debug\net8.0\FibonacciSeries.dll
+C:\Users\Jairo Vega\Desktop\ControlDeFlujo\FibonacciSeries\FibonacciSeries\bin\Debug\net8.0\FibonacciSeries.pdb
+C:\Users\Jairo Vega\Desktop\ControlDeFlujo\FibonacciSeries\FibonacciSeries\obj\Debug\net8.0\FibonacciSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jairo Vega\Desktop\ControlDeFlujo\FibonacciSeries\FibonacciSeries\obj\Debug\net8.0\FibonacciSeries.AssemblyInfoInputs.cache
+C:\Users\Jairo Vega\Desktop\ControlDeFlujo\FibonacciSeries\FibonacciSeries\obj\Debug\net8.0\FibonacciSeries.AssemblyInfo.cs
+C:\Users\Jairo Vega\Desktop\ControlDeFlujo\FibonacciSeries\FibonacciSeries\obj\Debug\net8.0\FibonacciSeries.csproj.CoreCompileInputs.cache
+C:\Users\Jairo Vega\Desktop\ControlDeFlujo\FibonacciSeries\FibonacciSeries\obj\Debug\net8.0\FibonacciSeries.dll
+C:\Users\Jairo Vega\Desktop\ControlDeFlujo\FibonacciSeries\FibonacciSeries\obj\Debug\net8.0\refint\FibonacciSeries.dll
+C:\Users\Jairo Vega\Desktop\ControlDeFlujo\FibonacciSeries\FibonacciSeries\obj\Debug\net8.0\FibonacciSeries.pdb
+C:\Users\Jairo Vega\Desktop\ControlDeFlujo\FibonacciSeries\FibonacciSeries\obj\Debug\net8.0\FibonacciSeries.genruntimeconfig.cache
+C:\Users\Jairo Vega\Desktop\ControlDeFlujo\FibonacciSeries\FibonacciSeries\obj\Debug\net8.0\ref\FibonacciSeries.dll

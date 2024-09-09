@@ -1,0 +1,14 @@
+C:\Users\Jairo Vega\Desktop\ControlDeFlujo\NumberSeries\NumberSeries\bin\Debug\net8.0\NumberSeries.exe
+C:\Users\Jairo Vega\Desktop\ControlDeFlujo\NumberSeries\NumberSeries\bin\Debug\net8.0\NumberSeries.deps.json
+C:\Users\Jairo Vega\Desktop\ControlDeFlujo\NumberSeries\NumberSeries\bin\Debug\net8.0\NumberSeries.runtimeconfig.json
+C:\Users\Jairo Vega\Desktop\ControlDeFlujo\NumberSeries\NumberSeries\bin\Debug\net8.0\NumberSeries.dll
+C:\Users\Jairo Vega\Desktop\ControlDeFlujo\NumberSeries\NumberSeries\bin\Debug\net8.0\NumberSeries.pdb
+C:\Users\Jairo Vega\Desktop\ControlDeFlujo\NumberSeries\NumberSeries\obj\Debug\net8.0\NumberSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jairo Vega\Desktop\ControlDeFlujo\NumberSeries\NumberSeries\obj\Debug\net8.0\NumberSeries.AssemblyInfoInputs.cache
+C:\Users\Jairo Vega\Desktop\ControlDeFlujo\NumberSeries\NumberSeries\obj\Debug\net8.0\NumberSeries.AssemblyInfo.cs
+C:\Users\Jairo Vega\Desktop\ControlDeFlujo\NumberSeries\NumberSeries\obj\Debug\net8.0\NumberSeries.csproj.CoreCompileInputs.cache
+C:\Users\Jairo Vega\Desktop\ControlDeFlujo\NumberSeries\NumberSeries\obj\Debug\net8.0\NumberSeries.dll
+C:\Users\Jairo Vega\Desktop\ControlDeFlujo\NumberSeries\NumberSeries\obj\Debug\net8.0\refint\NumberSeries.dll
+C:\Users\Jairo Vega\Desktop\ControlDeFlujo\NumberSeries\NumberSeries\obj\Debug\net8.0\NumberSeries.pdb
+C:\Users\Jairo Vega\Desktop\ControlDeFlujo\NumberSeries\NumberSeries\obj\Debug\net8.0\NumberSeries.genruntimeconfig.cache
+C:\Users\Jairo Vega\Desktop\ControlDeFlujo\NumberSeries\NumberSeries\obj\Debug\net8.0\ref\NumberSeries.dll

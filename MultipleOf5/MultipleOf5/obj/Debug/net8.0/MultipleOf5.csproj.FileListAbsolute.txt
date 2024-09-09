@@ -1,0 +1,14 @@
+C:\Users\Jairo Vega\Desktop\ControlDeFlujo\MultipleOf5\MultipleOf5\bin\Debug\net8.0\MultipleOf5.exe
+C:\Users\Jairo Vega\Desktop\ControlDeFlujo\MultipleOf5\MultipleOf5\bin\Debug\net8.0\MultipleOf5.deps.json
+C:\Users\Jairo Vega\Desktop\ControlDeFlujo\MultipleOf5\MultipleOf5\bin\Debug\net8.0\MultipleOf5.runtimeconfig.json
+C:\Users\Jairo Vega\Desktop\ControlDeFlujo\MultipleOf5\MultipleOf5\bin\Debug\net8.0\MultipleOf5.dll
+C:\Users\Jairo Vega\Desktop\ControlDeFlujo\MultipleOf5\MultipleOf5\bin\Debug\net8.0\MultipleOf5.pdb
+C:\Users\Jairo Vega\Desktop\ControlDeFlujo\MultipleOf5\MultipleOf5\obj\Debug\net8.0\MultipleOf5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jairo Vega\Desktop\ControlDeFlujo\MultipleOf5\MultipleOf5\obj\Debug\net8.0\MultipleOf5.AssemblyInfoInputs.cache
+C:\Users\Jairo Vega\Desktop\ControlDeFlujo\MultipleOf5\MultipleOf5\obj\Debug\net8.0\MultipleOf5.AssemblyInfo.cs
+C:\Users\Jairo Vega\Desktop\ControlDeFlujo\MultipleOf5\MultipleOf5\obj\Debug\net8.0\MultipleOf5.csproj.CoreCompileInputs.cache
+C:\Users\Jairo Vega\Desktop\ControlDeFlujo\MultipleOf5\MultipleOf5\obj\Debug\net8.0\MultipleOf5.dll
+C:\Users\Jairo Vega\Desktop\ControlDeFlujo\MultipleOf5\MultipleOf5\obj\Debug\net8.0\refint\MultipleOf5.dll
+C:\Users\Jairo Vega\Desktop\ControlDeFlujo\MultipleOf5\MultipleOf5\obj\Debug\net8.0\MultipleOf5.pdb
+C:\Users\Jairo Vega\Desktop\ControlDeFlujo\MultipleOf5\MultipleOf5\obj\Debug\net8.0\MultipleOf5.genruntimeconfig.cache
+C:\Users\Jairo Vega\Desktop\ControlDeFlujo\MultipleOf5\MultipleOf5\obj\Debug\net8.0\ref\MultipleOf5.dll
